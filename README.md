@@ -1,60 +1,188 @@
-🤖 AI Recommendation Service
+# 🏥 SmartWell: AI-Integrated Health Monitor
 
-SmartWell uses a separate AI service to generate health recommendations.
-This service must be running before using AI-powered features.
+SmartWell is an **end-to-end health solution** combining **Raspberry Pi hardware**, a **web-based CRUD system**, and **AI-driven diagnostics**.  
+It focuses on **early stroke detection** and **nutritional analysis**, providing **real-time health recommendations** based on detected data.
 
-▶️ How to Run the AI Service
+---
 
-Open your terminal
+## 🚀 Key Functionalities
 
-Navigate to the project root directory
+### 🧠 Stroke Detection
+- Detects early stroke symptoms using facial symmetry analysis
+- AI-powered model for real-time alerts
 
+### 🥗 Food Detection
+- Identifies food using Pi Camera
+- Provides nutritional insights and healthier alternatives
+
+### ⚖️ BMI Calculator
+- Tracks BMI with personalized health tips
+
+### 📂 Health Journal (CRUD System)
+- Save records, view history, and track health progress
+
+---
+
+## 🛠️ Hardware Requirements
+- Raspberry Pi (4 or 5 recommended)
+- Raspberry Pi Camera Module
+- Stable Internet Connection
+
+---
+
+## 📦 Setup & Installation
+
+### 1️⃣ Clone Project
+```bash
+git clone https://github.com/your-username/SmartWell.git
+```
+
+### 2️⃣ Go to Project Folder
+```bash
 cd SmartWell
+```
 
-Run the AI server:
+### 3️⃣ Setup Environment File
+```bash
+mv .env.example .env
+```
 
-python3 app.py
-✅ What This Does
+> Fill in your `.env` file:
+> - Database credentials
+> - GitHub Token
+> - Hugging Face Token
 
-Running this command will:
-
-Start the AI backend service
-
-Enable:
-
-🥗 Food recommendation analysis
-
-🧠 Health insights generation
-
-📊 Smart suggestions in the web system
-
-⚠️ Important Notes
-
-Make sure your .env file is configured correctly
-
-Ensure all required Python dependencies are installed
-
-Keep this service running while using the system
-
-If the service stops, AI features will not work
-
-🧪 (Optional) Install Dependencies First
-
-If you haven’t installed Python packages:
-
+### 4️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
-💡 Optional: Create One-Click Start Script
-For Linux / Mac (start.sh)
-#!/bin/bash
-echo "Starting SmartWell AI Service..."
+```
+
+### 5️⃣ Run AI Recommendation Service ⚠️ (REQUIRED)
+```bash
 python3 app.py
+```
 
-Run it with:
+> ✅ Must be running for:
+> - Food recommendations
+> - Health insights
+> - AI analysis
 
+### 6️⃣ Run Raspberry Pi Detection (Optional)
+```bash
+cd RaspberryPi
+```
+```bash
+python3 main_detection.py
+```
+
+### 7️⃣ Database Setup
+
+Open `db_script/database.sql`, copy all contents, then run it in **phpMyAdmin** or **MySQL Workbench**.
+
+### 8️⃣ Web Setup
+
+- Point your PHP server to the project root
+- Configure `config.php` to use `.env`
+
+---
+
+## ⚙️ Configuration
+```env
+AI_MODEL_NAME=DeepSeek
+```
+
+---
+
+## 📁 Project Structure
+```
+SmartWell/
+│── db_script/
+│── RaspberryPi/
+│── food_detection_model/
+│── stroke_models/
+│── app.py
+│── config.php
+│── .env.example
+```
+
+---
+
+## ⚠️ Important Notes
+
+- Do **NOT** upload `.env` to GitHub
+- Ensure internet connection for AI APIs
+- Keep `python3 app.py` running at all times
+
+---
+
+## 🚀 Quick Start (Fastest Way)
+
+**Step 1** — Navigate to project folder:
+```bash
+cd SmartWell
+```
+
+**Step 2** — Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+**Step 3** — Start the AI service:
+```bash
+python3 app.py
+```
+
+---
+
+## 💡 Optional: One-Click Start Script
+
+### 🐧 Linux / Mac
+
+Create the script file:
+```bash
+touch start.sh
+```
+
+Open and add the following content:
+```bash
+#!/bin/bash
+python3 app.py
+```
+
+Make it executable:
+```bash
 chmod +x start.sh
+```
+
+Run it:
+```bash
 ./start.sh
-For Windows (start.bat)
+```
+
+### 🪟 Windows
+
+Create a file named `start.bat` and add the following content:
+```bat
 @echo off
-echo Starting SmartWell AI Service...
 python app.py
 pause
+```
+
+---
+
+## 🧑‍💻 Authors
+
+- Your Name
+- Your Team
+
+---
+
+## ⭐ Contributing
+
+Pull requests are welcome!
+
+---
+
+## 📜 License
+
+For educational and research purposes only.
