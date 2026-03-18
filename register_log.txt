@@ -1,0 +1,1298 @@
+2025-05-06 09:36:59 - Script started
+2025-05-06 09:36:59 - POST data received: Array
+(
+    [userName] => DFZS
+    [email] => DFZS@gmail.com
+    [password] => 12341234
+    [confirmPassword] => 12341234
+    [dateOfBirth] => 2005-07-01
+    [gender] => male
+    [phoneNo] => 01234566
+    [termsCheck] => on
+)
+
+2025-05-06 09:36:59 - Processed form data - Username: DFZS, Email: DFZS@gmail.com, DOB: 2005-07-01, Gender: male
+2025-05-06 09:36:59 - MAX UserID found: U7402
+2025-05-06 09:36:59 - Generated UserID: U7403
+2025-05-06 09:36:59 - Validation completed. Errors: None
+2025-05-06 09:36:59 - Attempting to insert user with ID: U7403
+2025-05-06 09:36:59 - User successfully registered with ID: U7403
+2025-05-06 09:38:19 - Script started
+2025-05-06 09:38:19 - POST data received: Array
+(
+    [userName] => DFZS
+    [email] => DFZS@gmail.com
+    [password] => 12341234
+    [confirmPassword] => 12341234
+    [dateOfBirth] => 2005-07-01
+    [gender] => male
+    [phoneNo] => 1234566
+    [termsCheck] => on
+)
+
+2025-05-06 09:38:19 - Processed form data - Username: DFZS, Email: DFZS@gmail.com, DOB: 2005-07-01, Gender: male
+2025-05-06 09:38:19 - MAX UserID found: None
+2025-05-06 09:38:19 - Generated UserID: U0001
+2025-05-06 09:38:19 - Validation completed. Errors: None
+2025-05-06 09:38:19 - Attempting to insert user with ID: U0001
+2025-05-06 09:38:19 - User successfully registered with ID: U0001
+2025-05-06 10:47:31 - Script started
+2025-05-06 10:47:31 - POST data received: Array
+(
+    [userName] => DFZS
+    [email] => DFZS@gmail.com
+    [password] => 12341234
+    [confirmPassword] => 12341234
+    [dateOfBirth] => 0003-02-01
+    [gender] => male
+    [phoneNo] => 12341234
+    [termsCheck] => on
+)
+
+2025-05-06 10:47:31 - Processed form data - Username: DFZS, Email: DFZS@gmail.com, DOB: 0003-02-01, Gender: male
+2025-05-06 10:47:31 - MAX UserID found: None
+2025-05-06 10:47:31 - Generated UserID: U0001
+2025-05-06 10:47:31 - Validation completed. Errors: None
+2025-05-06 10:47:31 - Attempting to insert user with ID: U0001
+2025-05-06 10:47:31 - User successfully registered with ID: U0001
+2025-05-12 07:32:44 - Script started
+2025-05-12 07:32:44 - POST data received: Array
+(
+    [userName] => DDDD
+    [email] => darylfzs@hotmail.com
+    [password] => 12341234
+    [confirmPassword] => 12341234
+    [dateOfBirth] => 2006-07-27
+    [gender] => male
+    [phoneNo] => 1234123412
+    [termsCheck] => on
+)
+
+2025-05-12 07:32:44 - Processed form data - Username: DDDD, Email: darylfzs@hotmail.com, DOB: 2006-07-27, Gender: male
+2025-05-12 07:32:44 - MAX UserID found: U0001
+2025-05-12 07:32:44 - Generated UserID: U0002
+2025-05-12 07:32:44 - Validation completed. Errors: None
+2025-05-12 07:32:44 - Attempting to insert user with ID: U0002
+2025-05-12 07:32:44 - User successfully registered with ID: U0002
+2025-05-12 23:39:00 - Script started
+2025-05-12 23:39:00 - POST data received: Array
+(
+    [userName] => DAAA
+    [email] => DAAA@gmail.com
+    [password] => qwer1234
+    [confirmPassword] => qwer1234
+    [dateOfBirth] => 2004-07-05
+    [gender] => male
+    [phoneNo] => 12341234
+    [termsCheck] => on
+)
+
+2025-05-12 23:39:00 - Processed form data - Username: DAAA, Email: DAAA@gmail.com, DOB: 2004-07-05, Gender: male
+2025-05-12 23:39:00 - MAX UserID found: U0002
+2025-05-12 23:39:00 - Generated UserID: U0003
+2025-05-12 23:39:00 - Validation completed. Errors: None
+2025-05-12 23:39:00 - Attempting to insert user with ID: U0003
+2025-05-12 23:40:05 - Script started
+2025-05-12 23:40:05 - POST data received: Array
+(
+    [userName] => DAAA
+    [email] => DAAA@gmail.com
+    [password] => qwer1234
+    [confirmPassword] => qwer1234
+    [dateOfBirth] => 2004-07-05
+    [gender] => male
+    [phoneNo] => 12341234
+    [termsCheck] => on
+)
+
+2025-05-12 23:40:05 - Processed form data - Username: DAAA, Email: DAAA@gmail.com, DOB: 2004-07-05, Gender: male
+2025-05-12 23:40:05 - MAX UserID found: U0002
+2025-05-12 23:40:05 - Generated UserID: U0003
+2025-05-12 23:40:05 - Validation completed. Errors: None
+2025-05-12 23:40:05 - Attempting to insert user with ID: U0003
+2025-05-12 23:40:05 - User successfully registered with ID: U0003
+2025-05-15 07:22:05 - Script started
+2025-05-15 07:22:05 - POST data received: Array
+(
+    [userName] => Kang
+    [email] => kang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2005-07-06
+    [gender] => male
+    [password] => a1234567
+    [confirmPassword] => a1234567
+    [termsCheck] => on
+)
+
+2025-05-15 07:22:05 - Processed form data - Username: Kang, Email: kang@gmail.com, DOB: 2005-07-06, Gender: male
+2025-05-15 07:22:05 - MAX UserID found: None
+2025-05-15 07:22:05 - Generated UserID: U0001
+2025-05-15 07:22:05 - Validation completed. Errors: None
+2025-05-15 07:22:06 - Attempting to insert user with ID: U0001
+2025-05-15 07:22:06 - User successfully registered with ID: U0001
+2025-05-26 13:17:30 - Script started
+2025-05-26 13:17:30 - POST data received: Array
+(
+    [userName] => nick
+    [email] => yaochenz09@gmail.com
+    [phoneNo] => 0167441071
+    [dateOfBirth] => 2005-10-26
+    [gender] => male
+    [password] => bmxzingk09
+    [confirmPassword] => bmxzingk09
+    [termsCheck] => on
+)
+
+2025-05-26 13:17:30 - Processed form data - Username: nick, Email: yaochenz09@gmail.com, DOB: 2005-10-26, Gender: male
+2025-05-26 13:17:30 - MAX UserID found: None
+2025-05-26 13:17:30 - Generated UserID: U0001
+2025-05-26 13:17:30 - Validation completed. Errors: None
+2025-05-26 13:17:30 - Attempting to insert user with ID: U0001
+2025-05-26 13:17:30 - User successfully registered with ID: U0001
+2025-05-26 14:29:03 - Script started
+2025-05-26 14:29:03 - POST data received: Array
+(
+    [userName] => siew
+    [email] => siew@gmail.com
+    [phoneNo] => 60183541246
+    [dateOfBirth] => 2001-12-12
+    [gender] => male
+    [password] => 123456
+    [confirmPassword] => 123456
+    [termsCheck] => on
+)
+
+2025-05-26 14:29:03 - Processed form data - Username: siew, Email: siew@gmail.com, DOB: 2001-12-12, Gender: male
+2025-05-26 14:29:03 - MAX UserID found: U0001
+2025-05-26 14:29:03 - Generated UserID: U0002
+2025-05-26 14:29:03 - Validation completed. Errors: Password must be at least 8 characters.
+2025-05-26 14:29:03 - Redirecting with errors: Password must be at least 8 characters.
+2025-05-26 14:29:42 - Script started
+2025-05-26 14:29:42 - POST data received: Array
+(
+    [userName] => siew
+    [email] => siew@gmail.com
+    [password] => beibei2901
+    [confirmPassword] => beibei2901
+    [dateOfBirth] => 2001-12-12
+    [gender] => male
+    [phoneNo] => 60183541246
+    [termsCheck] => on
+)
+
+2025-05-26 14:29:42 - Processed form data - Username: siew, Email: siew@gmail.com, DOB: 2001-12-12, Gender: male
+2025-05-26 14:29:42 - MAX UserID found: U0001
+2025-05-26 14:29:42 - Generated UserID: U0002
+2025-05-26 14:29:42 - Validation completed. Errors: None
+2025-05-26 14:29:42 - Attempting to insert user with ID: U0002
+2025-05-26 14:29:42 - User successfully registered with ID: U0002
+2025-06-06 13:37:28 - Script started
+2025-06-06 13:37:28 - POST data received: Array
+(
+    [userName] => Xiang
+    [email] => xiang@gmail.com
+    [phoneNo] => 0187666666
+    [dateOfBirth] => 2000-01-01
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-06 13:37:28 - Processed form data - Username: Xiang, Email: xiang@gmail.com, DOB: 2000-01-01, Gender: male
+2025-06-06 13:37:28 - MAX UserID found: U0003
+2025-06-06 13:37:28 - Generated UserID: U0004
+2025-06-06 13:37:28 - Validation completed. Errors: None
+2025-06-06 13:37:28 - Attempting to insert user with ID: U0004
+2025-06-06 13:40:41 - Script started
+2025-06-06 13:40:41 - POST data received: Array
+(
+    [userName] => Xiang
+    [email] => xiang@gmail.com
+    [phoneNo] => 0187666666
+    [dateOfBirth] => 2000-01-01
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-06 13:40:41 - Processed form data - Username: Xiang, Email: xiang@gmail.com, DOB: 2000-01-01, Gender: male
+2025-06-06 13:40:41 - MAX UserID found: U0003
+2025-06-06 13:40:41 - Generated UserID: U0004
+2025-06-06 13:40:41 - Validation completed. Errors: None
+2025-06-06 13:40:41 - Attempting to insert user with ID: U0004
+2025-06-06 13:40:41 - User successfully registered with ID: U0004
+2025-06-09 12:32:10 - Script started
+2025-06-09 12:32:10 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-09
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-09 12:32:10 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-09, Gender: male
+2025-06-09 12:32:10 - MAX UserID found: None
+2025-06-09 12:32:10 - Generated UserID: U0001
+2025-06-09 12:32:10 - Validation completed. Errors: None
+2025-06-09 12:32:11 - Attempting to insert user with ID: U0001
+2025-06-09 12:32:11 - User successfully registered with ID: U0001
+2025-06-09 12:32:14 - Registration email sent successfully to tanyiewkang@gmail.com
+2025-06-10 03:34:47 - Script started
+2025-06-10 03:34:47 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 03:34:47 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 03:34:47 - MAX UserID found: None
+2025-06-10 03:34:47 - Generated UserID: U0001
+2025-06-10 03:34:47 - Validation completed. Errors: None
+2025-06-10 03:34:48 - Attempting to insert user with ID: U0001
+2025-06-10 03:34:48 - User successfully registered with ID: U0001
+2025-06-10 03:35:09 - Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2025-06-10 03:35:09 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-10 03:40:35 - Script started
+2025-06-10 03:40:35 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 03:40:35 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 03:40:35 - MAX UserID found: None
+2025-06-10 03:40:35 - Generated UserID: U0001
+2025-06-10 03:40:35 - Validation completed. Errors: None
+2025-06-10 03:40:35 - Attempting to insert user with ID: U0001
+2025-06-10 03:40:35 - User successfully registered with ID: U0001
+2025-06-10 03:40:56 - Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2025-06-10 03:40:56 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-10 03:47:15 - Script started
+2025-06-10 03:47:15 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 03:47:15 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 03:47:15 - MAX UserID found: None
+2025-06-10 03:47:15 - Generated UserID: U0001
+2025-06-10 03:47:15 - Validation completed. Errors: None
+2025-06-10 03:47:15 - Attempting to insert user with ID: U0001
+2025-06-10 03:47:15 - User successfully registered with ID: U0001
+2025-06-10 03:47:36 - Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2025-06-10 03:47:36 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-10 04:15:13 - Script started
+2025-06-10 04:15:13 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 04:15:13 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 04:15:13 - MAX UserID found: None
+2025-06-10 04:15:13 - Generated UserID: U0001
+2025-06-10 04:15:13 - Validation completed. Errors: None
+2025-06-10 04:15:13 - Attempting to insert user with ID: U0001
+2025-06-10 04:15:13 - User successfully registered with ID: U0001
+2025-06-10 04:15:34 - Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2025-06-10 04:15:34 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-10 14:00:20 - Script started
+2025-06-10 14:00:20 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 14:00:20 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 14:01:03 - Script started
+2025-06-10 14:01:03 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 14:01:03 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 14:01:03 - MAX UserID found: None
+2025-06-10 14:01:03 - Generated UserID: U0001
+2025-06-10 14:01:03 - Validation completed. Errors: None
+2025-06-10 14:01:03 - Attempting to insert user with ID: U0001
+2025-06-10 14:01:03 - User successfully registered with ID: U0001
+2025-06-10 14:01:05 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-10 14:01:05 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-10 14:10:43 - Script started
+2025-06-10 14:10:43 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 012345678
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 14:10:43 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 14:10:43 - MAX UserID found: U0001
+2025-06-10 14:10:43 - Generated UserID: U0002
+2025-06-10 14:10:43 - Duplicate check: Username or email already exists
+2025-06-10 14:10:43 - Validation completed. Errors: Username or email already exists.
+2025-06-10 14:10:43 - Redirecting with errors: Username or email already exists.
+2025-06-10 14:13:44 - Script started
+2025-06-10 14:13:44 - POST data received: Array
+(
+    [userName] => yiew
+    [email] => yiew@gmail.com
+    [phoneNo] => 012345678
+    [dateOfBirth] => 2025-06-10
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-10 14:13:44 - Processed form data - Username: yiew, Email: yiew@gmail.com, DOB: 2025-06-10, Gender: male
+2025-06-10 14:13:44 - MAX UserID found: U0001
+2025-06-10 14:13:44 - Generated UserID: U0002
+2025-06-10 14:13:44 - Validation completed. Errors: None
+2025-06-10 14:13:44 - Attempting to insert user with ID: U0002
+2025-06-10 14:13:44 - User successfully registered with ID: U0002
+2025-06-10 14:13:46 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-10 14:13:46 - Failed to send registration email to yiew@gmail.com
+2025-06-11 00:59:43 - Script started
+2025-06-11 00:59:43 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 00:59:43 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 00:59:43 - MAX UserID found: None
+2025-06-11 00:59:43 - Generated UserID: U0001
+2025-06-11 00:59:43 - Validation completed. Errors: None
+2025-06-11 00:59:43 - Attempting to insert user with ID: U0001
+2025-06-11 00:59:43 - User successfully registered with ID: U0001
+2025-06-11 00:59:47 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-11 00:59:47 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-11 08:52:14 - Script started
+2025-06-11 08:52:14 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 08:52:14 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 08:52:14 - MAX UserID found: None
+2025-06-11 08:52:14 - Generated UserID: U0001
+2025-06-11 08:52:14 - Validation completed. Errors: None
+2025-06-11 08:52:14 - Attempting to insert user with ID: U0001
+2025-06-11 08:52:14 - User successfully registered with ID: U0001
+2025-06-11 08:52:16 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-11 08:52:16 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-11 08:57:49 - Script started
+2025-06-11 08:57:49 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 08:57:49 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 08:57:49 - MAX UserID found: None
+2025-06-11 08:57:49 - Generated UserID: U0001
+2025-06-11 08:57:49 - Validation completed. Errors: None
+2025-06-11 08:57:50 - Attempting to insert user with ID: U0001
+2025-06-11 08:57:50 - User successfully registered with ID: U0001
+2025-06-11 08:57:51 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-11 08:57:51 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-11 09:04:24 - Script started
+2025-06-11 09:04:24 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 09:04:24 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 09:04:24 - MAX UserID found: None
+2025-06-11 09:04:24 - Generated UserID: U0001
+2025-06-11 09:04:24 - Validation completed. Errors: None
+2025-06-11 09:04:24 - Attempting to insert user with ID: U0001
+2025-06-11 09:04:24 - User successfully registered with ID: U0001
+2025-06-11 09:04:54 - Script started
+2025-06-11 09:04:54 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 09:04:54 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 09:04:54 - MAX UserID found: U0001
+2025-06-11 09:04:54 - Generated UserID: U0002
+2025-06-11 09:04:54 - Duplicate check: Username or email already exists
+2025-06-11 09:04:54 - Validation completed. Errors: Username or email already exists.
+2025-06-11 09:04:54 - Redirecting with errors: Username or email already exists.
+2025-06-11 17:12:42 - Script started
+2025-06-11 17:12:42 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 17:12:42 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 17:12:42 - MAX UserID found: None
+2025-06-11 17:12:42 - Generated UserID: U0001
+2025-06-11 17:12:42 - Validation completed. Errors: None
+2025-06-11 17:12:42 - Attempting to insert user with ID: U0001
+2025-06-11 17:12:42 - User successfully registered with ID: U0001
+2025-06-11 17:12:42 - SMTP Debug: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 98e67ed59e1d1-313b200a23esm869877a91.18 - gsmtp
+
+2025-06-11 17:12:42 - SMTP Debug: CLIENT -> SERVER: EHLO localhost
+
+2025-06-11 17:12:42 - SMTP Debug: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [2001:e68:540b:316f:adbb:57f3:8e54:2394]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+2025-06-11 17:12:42 - SMTP Debug: CLIENT -> SERVER: STARTTLS
+
+2025-06-11 17:12:42 - SMTP Debug: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+
+2025-06-11 17:12:42 - SMTP Debug: CLIENT -> SERVER: EHLO localhost
+
+2025-06-11 17:12:43 - SMTP Debug: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [2001:e68:540b:316f:adbb:57f3:8e54:2394]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+2025-06-11 17:12:43 - SMTP Debug: CLIENT -> SERVER: AUTH LOGIN
+
+2025-06-11 17:12:43 - SMTP Debug: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-06-11 17:12:43 - SMTP Debug: CLIENT -> SERVER: [credentials hidden]
+2025-06-11 17:12:43 - SMTP Debug: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-06-11 17:12:43 - SMTP Debug: CLIENT -> SERVER: [credentials hidden]
+2025-06-11 17:12:43 - SMTP Debug: SERVER -> CLIENT: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-313b200a23esm869877a91.18 - gsmtp
+
+2025-06-11 17:12:43 - SMTP Debug: SMTP ERROR: Password command failed: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-313b200a23esm869877a91.18 - gsmtp
+
+2025-06-11 17:12:43 - SMTP Debug: SMTP Error: Could not authenticate.
+2025-06-11 17:12:43 - SMTP Debug: CLIENT -> SERVER: QUIT
+
+2025-06-11 17:12:43 - SMTP Debug: SERVER -> CLIENT: 221 2.0.0 closing connection 98e67ed59e1d1-313b200a23esm869877a91.18 - gsmtp
+
+2025-06-11 17:12:43 - SMTP Debug: SMTP Error: Could not authenticate.
+2025-06-11 17:12:43 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-11 17:12:43 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-11 17:12:43 - Redirecting with errors: Failed to send registration email.
+2025-06-11 09:16:18 - Script started
+2025-06-11 09:16:18 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 09:16:18 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 09:16:18 - MAX UserID found: None
+2025-06-11 09:16:18 - Generated UserID: U0001
+2025-06-11 09:16:18 - Validation completed. Errors: None
+2025-06-11 09:16:18 - Attempting to insert user with ID: U0001
+2025-06-11 09:16:18 - User successfully registered with ID: U0001
+2025-06-11 09:16:20 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-11 09:16:20 - Failed to send registration email to tanyiewkang@gmail.com
+2025-06-11 09:31:08 - Script started
+2025-06-11 09:31:08 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 09:31:08 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 09:31:08 - Validation completed. Errors: None
+2025-06-11 09:31:08 - Attempting to insert user
+2025-06-11 09:36:08 - Script started
+2025-06-11 09:36:08 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 09:36:08 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 09:36:08 - Validation completed. Errors: None
+2025-06-11 09:36:09 - Attempting to insert user
+2025-06-11 09:39:51 - Script started
+2025-06-11 09:39:51 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 09:39:51 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 09:39:51 - Validation completed. Errors: None
+2025-06-11 09:39:51 - MAX UserID found: None
+2025-06-11 09:39:51 - Generated UserID: U0001
+2025-06-11 09:39:51 - User successfully registered with ID: U0001
+2025-06-11 09:40:09 - Script started
+2025-06-11 09:40:09 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-11
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-11 09:40:09 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-11, Gender: male
+2025-06-11 09:40:09 - Validation completed. Errors: None
+2025-06-11 09:40:09 - MAX UserID found: None
+2025-06-11 09:40:09 - Generated UserID: U0001
+2025-06-11 09:40:09 - User successfully registered with ID: U0001
+2025-06-13 10:06:37 - Script started
+2025-06-13 10:06:37 - POST data received: Array
+(
+    [userName] => xiang
+    [email] => xiang@gmail.com
+    [phoneNo] => 0187666222
+    [dateOfBirth] => 2025-06-05
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-13 10:06:37 - Processed form data - Username: xiang, Email: xiang@gmail.com, DOB: 2025-06-05, Gender: male
+2025-06-13 10:06:37 - MAX UserID found: U0001
+2025-06-13 10:06:37 - Generated UserID: U0002
+2025-06-13 10:06:37 - Validation completed. Errors: None
+2025-06-13 10:06:37 - Attempting to insert user with ID: U0002
+2025-06-13 10:06:37 - User successfully registered with ID: U0002
+2025-06-13 10:06:39 - Mailer Error: SMTP Error: Could not authenticate.
+2025-06-13 10:06:39 - Failed to send registration email to xiang@gmail.com
+2025-06-13 10:20:49 - Script started
+2025-06-13 10:20:49 - POST data received: Array
+(
+    [userName] => siew
+    [email] => siew@gmail.com
+    [phoneNo] => 0187666222
+    [dateOfBirth] => 2025-06-05
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-13 10:20:49 - Processed form data - Username: siew, Email: siew@gmail.com, DOB: 2025-06-05, Gender: male
+2025-06-13 10:20:49 - MAX UserID found: None
+2025-06-13 10:20:49 - Generated UserID: U0001
+2025-06-13 10:20:49 - Validation completed. Errors: None
+2025-06-13 10:20:50 - Attempting to insert user with ID: U0001
+2025-06-13 10:20:50 - User successfully registered with ID: U0001
+2025-06-13 10:20:50 - Secure QR code generated at: C:\wamp64\www\SmartWell Website/qrcodes/QrSavedFolder/U0001_qr.png with token
+2025-06-13 10:20:54 - Registration confirmation email sent to siew@gmail.com
+2025-06-14 02:53:46 - Script started
+2025-06-14 02:53:46 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 02:53:46 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 02:53:46 - MAX UserID found: None
+2025-06-14 02:53:46 - Generated UserID: U0001
+2025-06-14 02:53:46 - Validation completed. Errors: None
+2025-06-14 02:53:46 - Attempting to insert user with ID: U0001
+2025-06-14 02:53:46 - User successfully registered with ID: U0001
+2025-06-14 02:53:47 - Secure QR code generated at: C:\wamp64\www\SmartWell Website\SmartWell Website/qrcodes/QrSavedFolder/U0001_qr.png with token
+2025-06-14 02:53:51 - Registration confirmation email sent to tanyiewkang@gmail.com
+2025-06-14 02:55:22 - Script started
+2025-06-14 02:55:22 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 02:55:22 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 02:55:22 - MAX UserID found: None
+2025-06-14 02:55:22 - Generated UserID: U0001
+2025-06-14 02:55:22 - Validation completed. Errors: None
+2025-06-14 02:55:22 - Attempting to insert user with ID: U0001
+2025-06-14 02:55:22 - User successfully registered with ID: U0001
+2025-06-14 02:55:23 - Secure QR code generated at: C:\wamp64\www\SmartWell Website\SmartWell Website/qrcodes/QrSavedFolder/U0001_qr.png with token
+2025-06-14 02:55:26 - Registration confirmation email sent to tanyiewkang@gmail.com
+2025-06-14 05:25:20 - Script started
+2025-06-14 05:25:20 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 05:25:20 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 05:25:20 - MAX UserID found: None
+2025-06-14 05:25:20 - Generated UserID: U0001
+2025-06-14 05:25:20 - Validation completed. Errors: None
+2025-06-14 05:25:21 - Attempting to insert user with ID: U0001
+2025-06-14 05:25:21 - User successfully registered with ID: U0001
+2025-06-14 05:26:50 - Script started
+2025-06-14 05:26:50 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 05:26:50 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 05:26:50 - MAX UserID found: U0001
+2025-06-14 05:26:50 - Generated UserID: U0002
+2025-06-14 05:26:50 - Duplicate check: Username or email already exists
+2025-06-14 05:26:50 - Validation completed. Errors: Username or email already exists.
+2025-06-14 05:26:50 - Redirecting with errors: Username or email already exists.
+2025-06-14 05:32:23 - Script started
+2025-06-14 05:32:23 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 05:32:23 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 05:32:23 - MAX UserID found: None
+2025-06-14 05:32:23 - Generated UserID: U0001
+2025-06-14 05:32:23 - Validation completed. Errors: None
+2025-06-14 05:32:23 - Attempting to insert user with ID: U0001
+2025-06-14 05:32:23 - User successfully registered with ID: U0001
+2025-06-14 05:32:24 - ✅ QR code binary stored successfully for UserID: U0001
+2025-06-14 05:32:27 - Script started
+2025-06-14 05:32:27 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 05:32:27 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 05:32:27 - MAX UserID found: U0001
+2025-06-14 05:32:27 - Generated UserID: U0002
+2025-06-14 05:32:27 - Duplicate check: Username or email already exists
+2025-06-14 05:32:27 - Validation completed. Errors: Username or email already exists.
+2025-06-14 05:32:27 - Redirecting with errors: Username or email already exists.
+2025-06-14 05:32:27 - Registration confirmation email sent to tanyiewkang@gmail.com
+2025-06-14 05:53:38 - Script started
+2025-06-14 05:53:38 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 05:53:38 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 05:53:38 - MAX UserID found: None
+2025-06-14 05:53:38 - Generated UserID: U0001
+2025-06-14 05:53:38 - Validation completed. Errors: None
+2025-06-14 05:53:38 - Attempting to insert user with ID: U0001
+2025-06-14 05:53:38 - User successfully registered with ID: U0001
+2025-06-14 05:53:39 - ✅ QR code binary stored successfully for UserID: U0001
+2025-06-14 05:53:42 - Registration confirmation email sent to tanyiewkang@gmail.com
+2025-06-14 06:16:48 - Script started
+2025-06-14 06:16:48 - POST data received: Array
+(
+    [userName] => kang
+    [email] => tanyiewkang@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 06:16:48 - Processed form data - Username: kang, Email: tanyiewkang@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 06:16:48 - MAX UserID found: None
+2025-06-14 06:16:48 - Generated UserID: U0001
+2025-06-14 06:16:48 - Validation completed. Errors: None
+2025-06-14 06:16:48 - Attempting to insert user with ID: U0001
+2025-06-14 06:16:48 - User successfully registered with ID: U0001
+2025-06-14 06:16:48 - Starting QR code generation for UserID: U0001
+2025-06-14 06:16:48 - QR Content prepared for U0001: {"userID":"U0001","token":"bd2c1d6873301327d94ea6e0874c1dedfc4d64a3be4e7f5e23a2a2ff634a1857","userna...
+2025-06-14 06:16:52 - QR code generated successfully. Size: 2437 bytes, Dimensions: 810x810
+2025-06-14 06:16:52 - ✅ QR code successfully stored in database for UserID: U0001
+2025-06-14 06:16:55 - ✅ Registration confirmation email sent to tanyiewkang@gmail.com
+2025-06-14 07:49:45 - Script started
+2025-06-14 07:49:45 - POST data received: Array
+(
+    [userName] => haha
+    [email] => haha@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 07:49:45 - Processed form data - Username: haha, Email: haha@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 07:49:45 - MAX UserID found: U0001
+2025-06-14 07:49:45 - Generated UserID: U0002
+2025-06-14 07:49:45 - Validation completed. Errors: None
+2025-06-14 07:49:46 - Attempting to insert user with ID: U0002
+2025-06-14 07:49:46 - User successfully registered with ID: U0002
+2025-06-14 07:49:46 - Starting QR code generation for UserID: U0002
+2025-06-14 07:49:46 - QR Content prepared for U0002: {"userID":"U0002","token":"8c7b22df29045bfb44e45ea9b6cb7a9aabac343e44e3fee27e1dc9d2499b7d44","userna...
+2025-06-14 07:49:50 - QR code generated successfully. Size: 2428 bytes, Dimensions: 810x810
+2025-06-14 07:49:50 - QR code successfully stored in database for UserID: U0002
+2025-06-14 07:49:53 - ✅ Registration confirmation email sent to haha@gmail.com
+2025-06-14 09:04:55 - Script started
+2025-06-14 09:04:55 - POST data received: Array
+(
+    [userName] => hehe
+    [email] => hehe@gmail.com
+    [phoneNo] => 0188888888
+    [dateOfBirth] => 2025-06-14
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-14 09:04:55 - Processed form data - Username: hehe, Email: hehe@gmail.com, DOB: 2025-06-14, Gender: male
+2025-06-14 09:04:55 - MAX UserID found: U0002
+2025-06-14 09:04:55 - Generated UserID: U0003
+2025-06-14 09:04:55 - Validation completed. Errors: None
+2025-06-14 09:04:55 - Attempting to insert user with ID: U0003
+2025-06-14 09:04:55 - User successfully registered with ID: U0003
+2025-06-14 09:04:55 - Starting QR code generation for UserID: U0003
+2025-06-14 09:04:55 - QR Content prepared for U0003: {"userID":"U0003","token":"384af8f96504432e502d095844dcbf9680a119e6bf580352c0586ace115f17ce","userna...
+2025-06-14 09:05:01 - QR code generated successfully. Size: 2399 bytes, Dimensions: 810x810
+2025-06-14 09:05:01 - QR code successfully stored in database for UserID: U0003
+2025-06-14 09:05:05 - ✅ Registration confirmation email sent to hehe@gmail.com
+2025-06-16 16:50:31 - Script started
+2025-06-16 16:50:31 - POST data received: Array
+(
+    [userName] => kang
+    [email] => kang@gmail.com
+    [phoneNo] => 012345678
+    [dateOfBirth] => 2025-06-17
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-16 16:50:31 - Processed form data - Username: kang, Email: kang@gmail.com, DOB: 2025-06-17, Gender: male
+2025-06-16 16:50:31 - MAX UserID found: U0001
+2025-06-16 16:50:31 - Generated UserID: U0002
+2025-06-16 16:50:31 - Duplicate check: Username or email already exists
+2025-06-16 16:50:31 - Validation completed. Errors: Username or email already exists.
+2025-06-16 16:50:31 - Redirecting with errors: Username or email already exists.
+2025-06-17 09:35:05 - Script started
+2025-06-17 09:35:05 - POST data received: Array
+(
+    [userName] => siew
+    [email] => zixiang@gmail.com
+    [phoneNo] => 01871212122
+    [dateOfBirth] => 2025-06-05
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-17 09:35:05 - Processed form data - Username: siew, Email: zixiang@gmail.com, DOB: 2025-06-05, Gender: male
+2025-06-17 09:35:05 - MAX UserID found: U0001
+2025-06-17 09:35:05 - Generated UserID: U0002
+2025-06-17 09:35:05 - Validation completed. Errors: None
+2025-06-17 09:35:05 - Attempting to insert user with ID: U0002
+2025-06-17 09:35:05 - User successfully registered with ID: U0002
+2025-06-17 09:35:05 - Starting QR code generation for UserID: U0002
+2025-06-17 09:35:05 - QR Content prepared for U0002: {"userID":"U0002","token":"69065ef783dacec659dc360b5e6d38920d3884fe9b6b4e9be82a2e8f1dc48312","userna...
+2025-06-17 09:35:06 - QR code generated successfully. Size: 2412 bytes, Dimensions: 810x810
+2025-06-17 09:35:06 - QR code successfully stored in database for UserID: U0002
+2025-06-17 09:35:09 - ✅ Registration confirmation email sent to zixiang@gmail.com
+2025-06-17 10:22:49 - Script started
+2025-06-17 10:22:49 - POST data received: Array
+(
+    [userName] => john
+    [email] => john@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-17
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-17 10:22:49 - Processed form data - Username: john, Email: john@gmail.com, DOB: 2025-06-17, Gender: male
+2025-06-17 10:22:49 - MAX UserID found: U0002
+2025-06-17 10:22:49 - Generated UserID: U0003
+2025-06-17 10:22:49 - Validation completed. Errors: None
+2025-06-17 10:22:49 - Attempting to insert user with ID: U0003
+2025-06-17 10:22:49 - User successfully registered with ID: U0003
+2025-06-17 10:22:49 - Starting QR code generation for UserID: U0003
+2025-06-17 10:22:49 - QR Content prepared for U0003: {"userID":"U0003","token":"b340badf0f520f2b8a98cdbf53f94340cf976839bf2a88dba8d9fc9e155eb6cf","userna...
+2025-06-17 10:22:49 - QR code generated successfully. Size: 2404 bytes, Dimensions: 810x810
+2025-06-17 10:22:49 - QR code successfully stored in database for UserID: U0003
+2025-06-17 10:22:52 - ✅ Registration confirmation email sent to john@gmail.com
+2025-06-18 11:03:23 - Script started
+2025-06-18 11:03:23 - POST data received: Array
+(
+    [userName] => Xiang
+    [email] => xiang03@gmail.com
+    [phoneNo] => 016744102222
+    [dateOfBirth] => 2025-06-07
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-18 11:03:23 - Processed form data - Username: Xiang, Email: xiang03@gmail.com, DOB: 2025-06-07, Gender: male
+2025-06-18 11:03:23 - MAX UserID found: U0003
+2025-06-18 11:03:23 - Generated UserID: U0004
+2025-06-18 11:03:23 - Validation completed. Errors: None
+2025-06-18 11:03:23 - Attempting to insert user with ID: U0004
+2025-06-18 11:03:23 - User successfully registered with ID: U0004
+2025-06-18 11:03:23 - Starting QR code generation for UserID: U0004
+2025-06-18 11:03:23 - QR Content prepared for U0004: {"userID":"U0004","token":"a4c63a296608ec62470040590eb51866c82553a25135f8d2be057b5aa02aa4f0","userna...
+2025-06-18 11:03:23 - QR code generated successfully. Size: 2424 bytes, Dimensions: 810x810
+2025-06-18 11:03:23 - QR code successfully stored in database for UserID: U0004
+2025-06-18 11:03:26 - ✅ Registration confirmation email sent to xiang03@gmail.com
+2025-06-18 12:47:33 - Script started
+2025-06-18 12:47:33 - POST data received: Array
+(
+    [userName] => fenfen
+    [email] => yaochenz09@gmail.com
+    [phoneNo] => 0167441071
+    [dateOfBirth] => 2025-06-04
+    [gender] => male
+    [password] => ff123456
+    [confirmPassword] => ff123456
+    [termsCheck] => on
+)
+
+2025-06-18 12:47:33 - Processed form data - Username: fenfen, Email: yaochenz09@gmail.com, DOB: 2025-06-04, Gender: male
+2025-06-18 12:47:33 - MAX UserID found: U0004
+2025-06-18 12:47:33 - Generated UserID: U0005
+2025-06-18 12:47:33 - Validation completed. Errors: None
+2025-06-18 12:47:33 - Attempting to insert user with ID: U0005
+2025-06-18 12:47:33 - User successfully registered with ID: U0005
+2025-06-18 12:47:33 - Starting QR code generation for UserID: U0005
+2025-06-18 12:47:33 - QR Content prepared for U0005: {"userID":"U0005","token":"01ea35104ee70a994bd1908e57d98ef65f58c5747d840b4aa360ebf6199153bf","userna...
+2025-06-18 12:47:33 - QR code generated successfully. Size: 2419 bytes, Dimensions: 810x810
+2025-06-18 12:47:33 - QR code successfully stored in database for UserID: U0005
+2025-06-18 12:47:36 - ✅ Registration confirmation email sent to yaochenz09@gmail.com
+2025-06-20 02:27:21 - Script started
+2025-06-20 02:27:21 - POST data received: Array
+(
+    [userName] => Chong Guo Yong
+    [email] => chong31166@gmail.com
+    [phoneNo] => 0174880309
+    [dateOfBirth] => 2005-01-01
+    [gender] => male
+    [password] => 123456ss
+    [confirmPassword] => 123456ss
+    [termsCheck] => on
+)
+
+2025-06-20 02:27:21 - Processed form data - Username: Chong Guo Yong, Email: chong31166@gmail.com, DOB: 2005-01-01, Gender: male
+2025-06-20 02:27:21 - MAX UserID found: U0005
+2025-06-20 02:27:21 - Generated UserID: U0006
+2025-06-20 02:27:21 - Validation completed. Errors: None
+2025-06-20 02:27:21 - Attempting to insert user with ID: U0006
+2025-06-20 02:27:21 - User successfully registered with ID: U0006
+2025-06-20 02:27:21 - Starting QR code generation for UserID: U0006
+2025-06-20 02:27:21 - QR Content prepared for U0006: {"userID":"U0006","token":"fcd55ce218db7c23c75b1409e04f8c672f7d922f871e259ce8d57286b98f8169","userna...
+2025-06-20 02:27:21 - QR code generated successfully. Size: 2393 bytes, Dimensions: 810x810
+2025-06-20 02:27:21 - QR code successfully stored in database for UserID: U0006
+2025-06-20 02:27:24 - ✅ Registration confirmation email sent to chong31166@gmail.com
+2025-06-20 04:35:36 - Script started
+2025-06-20 04:35:36 - POST data received: Array
+(
+    [userName] => Bryan
+    [email] => bryan@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-20
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-20 04:35:36 - Processed form data - Username: Bryan, Email: bryan@gmail.com, DOB: 2025-06-20, Gender: male
+2025-06-20 04:35:36 - MAX UserID found: U0006
+2025-06-20 04:35:36 - Generated UserID: U0007
+2025-06-20 04:35:36 - Validation completed. Errors: None
+2025-06-20 04:35:36 - Attempting to insert user with ID: U0007
+2025-06-20 04:35:36 - User successfully registered with ID: U0007
+2025-06-20 04:35:36 - Starting QR code generation for UserID: U0007
+2025-06-20 04:35:36 - QR Content prepared for U0007: {"userID":"U0007","token":"d4312e0cd3bfe9b93e00aaabc4b03a30237e6d9788558e1e6f43c424caa2ef53","userna...
+2025-06-20 04:35:36 - QR code generated successfully. Size: 2417 bytes, Dimensions: 810x810
+2025-06-20 04:35:36 - QR code successfully stored in database for UserID: U0007
+2025-06-20 04:35:39 - ✅ Registration confirmation email sent to bryan@gmail.com
+2025-06-20 04:44:11 - Script started
+2025-06-20 04:44:11 - POST data received: Array
+(
+    [userName] => Haha
+    [email] => haha@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-20
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-20 04:44:11 - Processed form data - Username: Haha, Email: haha@gmail.com, DOB: 2025-06-20, Gender: male
+2025-06-20 04:44:11 - MAX UserID found: U0007
+2025-06-20 04:44:11 - Generated UserID: U0008
+2025-06-20 04:44:11 - Validation completed. Errors: None
+2025-06-20 04:44:11 - Attempting to insert user with ID: U0008
+2025-06-20 04:44:11 - User successfully registered with ID: U0008
+2025-06-20 04:44:11 - Starting QR code generation for UserID: U0008
+2025-06-20 04:44:11 - QR Content prepared for U0008: {"userID":"U0008","token":"221bdc683a6b0ff0bb70a49b07741dfe201f83eff0cf1a2111841abc918c73ea","userna...
+2025-06-20 04:44:11 - QR code generated successfully. Size: 2396 bytes, Dimensions: 810x810
+2025-06-20 04:44:11 - QR code successfully stored in database for UserID: U0008
+2025-06-20 04:44:14 - ✅ Registration confirmation email sent to haha@gmail.com
+2025-06-21 11:52:57 - Script started
+2025-06-21 11:52:57 - POST data received: Array
+(
+    [userName] => DFZS
+    [email] => darylzsfoo@gmail.com
+    [phoneNo] => 01163870114
+    [dateOfBirth] => 2005-07-01
+    [gender] => male
+    [password] => qwer1234
+    [confirmPassword] => qwer1234
+    [termsCheck] => on
+)
+
+2025-06-21 11:52:57 - Processed form data - Username: DFZS, Email: darylzsfoo@gmail.com, DOB: 2005-07-01, Gender: male
+2025-06-21 11:52:57 - MAX UserID found: U0008
+2025-06-21 11:52:57 - Generated UserID: U0009
+2025-06-21 11:52:57 - Validation completed. Errors: None
+2025-06-21 11:52:57 - Attempting to insert user with ID: U0009
+2025-06-21 11:52:57 - User successfully registered with ID: U0009
+2025-06-21 11:52:57 - Starting QR code generation for UserID: U0009
+2025-06-21 11:52:57 - QR Content prepared for U0009: {"userID":"U0009","token":"be6aff024f82ff5aa460febc6b91475068bb17a59357bd7e6048bb87bfd2338e","userna...
+2025-06-21 11:52:57 - QR code generated successfully. Size: 2406 bytes, Dimensions: 810x810
+2025-06-21 11:52:57 - QR code successfully stored in database for UserID: U0009
+2025-06-21 11:53:00 - ✅ Registration confirmation email sent to darylzsfoo@gmail.com
+2025-06-21 15:51:46 - Script started
+2025-06-21 15:51:46 - POST data received: Array
+(
+    [userName] => Patrick
+    [email] => patrick@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-21
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-21 15:51:46 - Processed form data - Username: Patrick, Email: patrick@gmail.com, DOB: 2025-06-21, Gender: male
+2025-06-21 15:51:46 - MAX UserID found: U0009
+2025-06-21 15:51:46 - Generated UserID: U0010
+2025-06-21 15:51:46 - Validation completed. Errors: None
+2025-06-21 15:51:46 - Attempting to insert user with ID: U0010
+2025-06-21 15:51:46 - User successfully registered with ID: U0010
+2025-06-21 15:51:46 - Starting QR code generation for UserID: U0010
+2025-06-21 15:51:46 - QR Content prepared for U0010: {"userID":"U0010","token":"68357448a58f3422e3789f1a05719b297c068499ae2787b8538826c63bfe4c34","userna...
+2025-06-21 15:51:46 - QR code generated successfully. Size: 2412 bytes, Dimensions: 810x810
+2025-06-21 15:51:46 - QR code successfully stored in database for UserID: U0010
+2025-06-21 15:51:48 - ✅ Registration confirmation email sent to patrick@gmail.com
+2025-06-21 15:53:57 - Script started
+2025-06-21 15:53:57 - POST data received: Array
+(
+    [userName] => patrick
+    [email] => patrick@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-21
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-21 15:53:57 - Processed form data - Username: patrick, Email: patrick@gmail.com, DOB: 2025-06-21, Gender: male
+2025-06-21 15:53:57 - MAX UserID found: U0009
+2025-06-21 15:53:57 - Generated UserID: U0010
+2025-06-21 15:53:57 - Validation completed. Errors: None
+2025-06-21 15:53:57 - Attempting to insert user with ID: U0010
+2025-06-21 15:53:57 - User successfully registered with ID: U0010
+2025-06-21 15:53:57 - Starting QR code generation for UserID: U0010
+2025-06-21 15:53:57 - QR Content prepared for U0010: {"userID":"U0010","token":"e5bacbcaa437a68c424be16fcdb20ab6ba41f8d628689ed3dd699cafe8a4430d","userna...
+2025-06-21 15:53:57 - QR code generated successfully. Size: 2426 bytes, Dimensions: 810x810
+2025-06-21 15:53:57 - QR code successfully stored in database for UserID: U0010
+2025-06-21 15:54:00 - ✅ Registration confirmation email sent to patrick@gmail.com
+2025-06-21 16:01:18 - Script started
+2025-06-21 16:01:18 - POST data received: Array
+(
+    [userName] => patrick
+    [email] => patrick@gmail.com
+    [phoneNo] => 0123456789
+    [dateOfBirth] => 2025-06-22
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-21 16:01:18 - Processed form data - Username: patrick, Email: patrick@gmail.com, DOB: 2025-06-22, Gender: male
+2025-06-21 16:01:18 - MAX UserID found: U0009
+2025-06-21 16:01:18 - Generated UserID: U0010
+2025-06-21 16:01:18 - Validation completed. Errors: None
+2025-06-21 16:01:18 - Attempting to insert user with ID: U0010
+2025-06-21 16:01:18 - User successfully registered with ID: U0010
+2025-06-21 16:01:18 - Starting QR code generation for UserID: U0010
+2025-06-21 16:01:18 - QR Content prepared for U0010: {"userID":"U0010","token":"649e72c0cc03dd61a468964fbc6edef4370df8214a2c8faef0a93d1c00f33546","userna...
+2025-06-21 16:01:18 - QR code generated successfully. Size: 2408 bytes, Dimensions: 810x810
+2025-06-21 16:01:18 - QR code successfully stored in database for UserID: U0010
+2025-06-21 16:01:21 - ✅ Registration confirmation email sent to patrick@gmail.com
+2025-06-22 10:58:28 - Script started
+2025-06-22 10:58:28 - POST data received: Array
+(
+    [userName] => DDDD
+    [email] => darylfzs@hotmail.com
+    [phoneNo] => 011-63870114
+    [dateOfBirth] => 2025-06-04
+    [gender] => male
+    [password] => qwer1234
+    [confirmPassword] => qwer1234
+    [termsCheck] => on
+)
+
+2025-06-22 10:58:28 - Processed form data - Username: DDDD, Email: darylfzs@hotmail.com, DOB: 2025-06-04, Gender: male
+2025-06-22 10:58:28 - MAX UserID found: U0009
+2025-06-22 10:58:28 - Generated UserID: U0010
+2025-06-22 10:58:28 - Validation completed. Errors: None
+2025-06-22 10:58:29 - Attempting to insert user with ID: U0010
+2025-06-22 10:58:29 - User successfully registered with ID: U0010
+2025-06-22 10:58:29 - Starting QR code generation for UserID: U0010
+2025-06-22 10:58:29 - QR Content prepared for U0010: {"userID":"U0010","token":"a46ad9b940846d4bff94ae5e4b20401b61667aab3286e605069bb4124fa5a428","userna...
+2025-06-22 10:58:29 - QR code generated successfully. Size: 2413 bytes, Dimensions: 810x810
+2025-06-22 10:58:29 - QR code successfully stored in database for UserID: U0010
+2025-06-22 10:58:32 - ✅ Registration confirmation email sent to darylfzs@hotmail.com
+2025-06-23 22:19:40 - Script started
+2025-06-23 22:19:40 - POST data received: Array
+(
+    [userName] => rebeccac
+    [email] => rebeccac@sunway.edu.my
+    [phoneNo] => 0167988770
+    [dateOfBirth] => 2025-06-03
+    [gender] => female
+    [password] => 22aaxBc88
+    [confirmPassword] => 22aaxBc88
+    [termsCheck] => on
+)
+
+2025-06-23 22:19:40 - Processed form data - Username: rebeccac, Email: rebeccac@sunway.edu.my, DOB: 2025-06-03, Gender: female
+2025-06-23 22:19:40 - MAX UserID found: U0010
+2025-06-23 22:19:40 - Generated UserID: U0011
+2025-06-23 22:19:40 - Validation completed. Errors: None
+2025-06-23 22:19:40 - Attempting to insert user with ID: U0011
+2025-06-23 22:19:40 - User successfully registered with ID: U0011
+2025-06-23 22:19:40 - Starting QR code generation for UserID: U0011
+2025-06-23 22:19:40 - QR Content prepared for U0011: {"userID":"U0011","token":"6a0eb899003b3719e81029afad0c098556c5752653118168ef4e34e7e5b5ed5c","userna...
+2025-06-23 22:19:41 - QR code generated successfully. Size: 2403 bytes, Dimensions: 810x810
+2025-06-23 22:19:41 - QR code successfully stored in database for UserID: U0011
+2025-06-23 22:19:45 - ✅ Registration confirmation email sent to rebeccac@sunway.edu.my
+2025-06-24 01:29:36 - Script started
+2025-06-24 01:29:36 - POST data received: Array
+(
+    [userName] => zixiang
+    [email] => zixiang290103@gmail.com
+    [phoneNo] => 0187662901
+    [dateOfBirth] => 2024-12-17
+    [gender] => male
+    [password] => 12345678a
+    [confirmPassword] => 12345678a
+    [termsCheck] => on
+)
+
+2025-06-24 01:29:36 - Processed form data - Username: zixiang, Email: zixiang290103@gmail.com, DOB: 2024-12-17, Gender: male
+2025-06-24 01:29:36 - MAX UserID found: U0011
+2025-06-24 01:29:36 - Generated UserID: U0012
+2025-06-24 01:29:36 - Validation completed. Errors: None
+2025-06-24 01:29:36 - Attempting to insert user with ID: U0012
+2025-06-24 01:29:36 - User successfully registered with ID: U0012
+2025-06-24 01:29:36 - Starting QR code generation for UserID: U0012
+2025-06-24 01:29:36 - QR Content prepared for U0012: {"userID":"U0012","token":"4f082e5903c63a7efd300ac93a108411441f4a6881694773b4c87222b81609dd","userna...
+2025-06-24 01:29:37 - QR code generated successfully. Size: 2423 bytes, Dimensions: 810x810
+2025-06-24 01:29:37 - QR code successfully stored in database for UserID: U0012
+2025-06-24 01:29:40 - ✅ Registration confirmation email sent to zixiang290103@gmail.com
+2025-06-28 09:14:41 - Script started
+2025-06-28 09:14:41 - POST data received: Array
+(
+    [userName] => DDDD
+    [email] => d3380539@gmail.com
+    [phoneNo] => 011-63870114
+    [dateOfBirth] => 2025-06-06
+    [gender] => male
+    [password] => Ybc85vgyY4yTSGy
+    [confirmPassword] => Ybc85vgyY4yTSGy
+    [termsCheck] => on
+)
+
+2025-06-28 09:14:41 - Processed form data - Username: DDDD, Email: d3380539@gmail.com, DOB: 2025-06-06, Gender: male
+2025-06-28 09:14:41 - MAX UserID found: U0012
+2025-06-28 09:14:41 - Generated UserID: U0013
+2025-06-28 09:14:41 - Validation completed. Errors: None
+2025-06-28 09:14:41 - Attempting to insert user with ID: U0013
+2025-06-28 09:14:41 - User successfully registered with ID: U0013
+2025-06-28 09:14:41 - Starting QR code generation for UserID: U0013
+2025-06-28 09:14:41 - QR Content prepared for U0013: {"userID":"U0013","token":"47056faf788789ec046b8c349e7d99c47290007a1fa8ee0622ddb526b493de0c","userna...
+2025-06-28 09:14:41 - QR code generated successfully. Size: 2406 bytes, Dimensions: 810x810
+2025-06-28 09:14:41 - QR code successfully stored in database for UserID: U0013
+2025-06-28 09:14:44 - ✅ Registration confirmation email sent to d3380539@gmail.com

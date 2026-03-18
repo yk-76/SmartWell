@@ -1,0 +1,34 @@
+2025-06-20 04:35:36: <br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/frame_15.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_0/mask_77_0.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_1/mask_77_1.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_2/mask_77_2.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_3/mask_77_3.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_4/mask_77_4.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_5/mask_77_5.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_6/mask_77_6.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(/home/wilsandb/public_html/SmartWell/qrcodes/cache/mask_7/mask_77_7.dat): failed to open stream: No such file or directory in <b>/home/wilsandb/public_html/SmartWell/qrcodes/qrmask.php</b> on line <b>155</b><br />

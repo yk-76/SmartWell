@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Scan Desktop QR to Login</title>
+    <script src="https://unpkg.com/html5-qrcode"></script>
+</head>
+<body>
+    <h3>Scan Desktop QR Code to Login</h3>
+    <div id="qr-scan-section">
+        <div id="qr-reader" style="width: 280px"></div>
+        <button onclick="closeQrScanner()">Close</button>
+    </div>
+    <script>
+    let qrScanner = null;
+    let scanFinished = false;
+    function closeQrScanner() {
+        if (qrScanner) qrScanner.stop();
+        scanFinished = true;
+        document.getElementById('qr-scan-section').style.display = 'none';
+    }
+    function openQrScanner() {
+        scanFinished = false;
+        qrScanner = new Html5Qrcode("qr-reader");
+        qrScanner.start(
+            { facingMode: "environment" },
+            { fps: 10, qrbox: 220 },
+            qrCodeMessage => {
+                if (scanFinished) return;
+                scanFinished = true;
+                let token = "";
+                try {
+                    const obj = JSON.parse(qrCodeMessage);
+                    token = obj.qr_login_token || "";
+                } catch (e) {
+                    alert("Invalid QR code format.");
+                    closeQrScanner();
+                    return;
+                }
+                if (!token) {
+                    alert("No login token found in QR code.");
+                    closeQrScanner();
+                    return;
+                }
+                fetch('qr_link_desktop.php', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ token })
+                })
+                .then(res => res.json())
+                .then(data => {
+                    if(data.success) {
+                        alert('Desktop login confirmed!');
+                    } else {
+                        alert('QR code invalid or expired.');
+                    }
+                    closeQrScanner();
+                });
+            },
+            errorMessage => {}
+        );
+    }
+    window.onload = openQrScanner;
+    </script>
+</body>
+</html>
