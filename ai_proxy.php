@@ -19,7 +19,6 @@ curl_setopt_array($ch, [
         "Authorization: Bearer $api_key",
         "HTTP-Referer: $referer"
     ],
-    // Recommended for local development if SSL issues occur
     CURLOPT_SSL_VERIFYPEER => false 
 ]);
 
